@@ -41,7 +41,7 @@ Credits
     Developed by [Segning Stephane].
 
 # License
-This implementation of Dots and Boxes is provided under the GNU General Public License (GPL), ensuring that it remains open-source and freely accessible to all
+This implementation of Dots and Boxes is provided under the GNU General Public License (GPL), ensuring that it remains open-source and freely accessible to all.
 
 ## Links
 - https://en.wikipedia.org/wiki/Dots_and_Boxes
