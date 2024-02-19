@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe2ff881-a820-44d8-a7d5-b42e87b3197b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ssegning/game/dotgame/lib/GameAppLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ssegning/game/dotgame/model/Content.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ssegning/game/dotgame/model/ContentType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ssegning/game/dotgame/model/GameConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ssegning/game/dotgame/model/InitMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ssegning/game/dotgame/model/Load.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ssegning/game/dotgame/model/Loadable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ssegning/game/dotgame/model/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ssegning/game/dotgame/ui/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ssegning/game/dotgame/ui/GameWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/casino.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/casino.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/casino.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ssegning/game/dotgame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ssegning/game/dotgame/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="fe2ff881-a820-44d8-a7d5-b42e87b3197b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +33,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="29sFlRgULO86h6kIAVn2PRQ9GZt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -67,9 +51,15 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/Users/selast/dev/learn-java/dot-game/src/main/resources/static",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/bansikah/Downloads/adorsys-oop/dot-game",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "show.migrate.to.gradle.popup": "false"
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -96,7 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.ssegning.game.dotgame.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -109,6 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653894039529</updated>
       <workItem from="1653894042256" duration="13900000" />
+      <workItem from="1708350142527" duration="1084000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1653894331919</created>
